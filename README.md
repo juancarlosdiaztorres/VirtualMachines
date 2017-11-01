@@ -1,6 +1,6 @@
 # VirtualMachines
 
-Con estos scripts podremos crear y administrar distintas máquinas virtuales:
+Con estos scripts podremos crear un servidor Apache y añadirle webs dinámicamente.
 
 Instalapache.py	 :	 instalará	 en	 una	 máquina	 el	 servidor	 apache	 y	 realiza	 la	
 configuración	inicial. Se ejecutará como "python Instalapache.py".
